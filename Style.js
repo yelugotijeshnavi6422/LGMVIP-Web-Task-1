@@ -34,11 +34,3 @@ function showTask() {
     ListContainer.innerHTML = localStorage.getItem("data");
 }
 showTask();
-
-
-lse);<br><br>function saveData() {<br>=C2=A0 =C2=A0 localStorage.setItem(&q=
-uot;data&quot;, ListContainer.innerHTML);<br><br>}<br><br>function showTask=
-() {<br>=C2=A0 =C2=A0 ListContainer.innerHTML =3D localStorage.getItem(&quo=
-t;data&quot;);<br>}<br>showTask();<br></div>
-
---000000000000f8ffd8060961f16c--
